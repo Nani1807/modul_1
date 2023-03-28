@@ -1,0 +1,71 @@
+.page{
+    margin-bottom: 500px;
+}
+.title{
+    width: 488px;
+    height: 273px;
+    margin-top: 216px;
+    margin-left: 374px;
+}
+.text2{
+    font-family: "Product Sans Bold"; 
+    font-size: 75px;
+    line-height: 91px;
+}
+
+.text{
+    width: 570px;
+    height: 66px;
+    margin-left: 374px;
+    margin-top: 15px;
+}
+.text1{
+    font-family: "Product Sans Normal"; 
+    color:  #888888;
+    line-height: 24px;
+
+}
+.button{
+height: 50px;
+width: 170px;
+margin-left: 375px;
+margin-top: 40px;
+background: #F16214;
+border-radius: 54px;
+display: flex;
+justify-content: space-between;
+}
+.text3{
+    font-family: "Product Sans Bold"; 
+line-height: 24px;
+text-align: left;
+color: #FFFFFF;
+margin-top: 13px;
+margin-left: 19px;
+display: inline-block;
+}
+.arrow{
+width: 40px;
+height: 40px;
+margin: auto;
+}
+.social_icon{
+width: 229px;
+height: 40px;
+margin-top: 40px;
+margin-left: 375px;
+display: flex;
+justify-content: space-between;
+}
+@font-face {
+    font-family: "Product Sans Bold"; 
+    src: url("./font/Product\ Sans\ Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 700; 
+    } 
+    @font-face {
+        font-family: "Product Sans Normal"; 
+        src: url("./font/Product\ Sans\ Regular.ttf") format("truetype"); 
+        font-style: normal; 
+        font-weight: 400; 
+        } 
